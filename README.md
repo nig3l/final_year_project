@@ -65,4 +65,4 @@ This project is a comprehensive full stack events management platform designed t
 
 
 
-### BY Joseph Gicuguma Kamau.
+### BY Nig3l.
